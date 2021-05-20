@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/AcidBase/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/AcidBase/static/js/main.6afbbf24.chunk.js",
-    "main.js.map": "/AcidBase/static/js/main.6afbbf24.chunk.js.map",
+    "main.js": "/AcidBase/static/js/main.13b4259c.chunk.js",
+    "main.js.map": "/AcidBase/static/js/main.13b4259c.chunk.js.map",
     "runtime-main.js": "/AcidBase/static/js/runtime-main.9db72576.js",
     "runtime-main.js.map": "/AcidBase/static/js/runtime-main.9db72576.js.map",
     "static/js/2.a0f857b5.chunk.js": "/AcidBase/static/js/2.a0f857b5.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/AcidBase/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/AcidBase/static/css/main.6dea0f05.chunk.css.map",
     "static/js/2.a0f857b5.chunk.js.LICENSE.txt": "/AcidBase/static/js/2.a0f857b5.chunk.js.LICENSE.txt",
-    "static/media/pdf.a646c56b.png": "/AcidBase/static/media/pdf.a646c56b.png"
+    "static/media/logo.cc47ac9b.png": "/AcidBase/static/media/logo.cc47ac9b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9db72576.js",
     "static/js/2.a0f857b5.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.6afbbf24.chunk.js"
+    "static/js/main.13b4259c.chunk.js"
   ]
 }
